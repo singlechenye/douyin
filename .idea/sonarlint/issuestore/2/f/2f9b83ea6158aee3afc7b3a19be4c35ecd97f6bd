@@ -1,0 +1,11 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿω‡έÿÿÿÿÿ8²ύ΅Ε‹1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿω‡έÿÿÿÿÿ8³ύ΅Ε‹1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¦ο£8³ύ΅Ε‹1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¦ο£8΄ύ΅Ε‹1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¦ο£8„®ζ‹1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¦ο£8„®ζ‹1
+i	java:S116"TRename this field "next_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒκόχ
+v	java:S116"URename this field "video_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ρ€ζ¦ϊÿÿÿÿ8πΖξε‹1
+N
+java:S1948",Make "video_list" transient or serializable.(Ρ€ζ¦ϊÿÿÿÿ8τΖξε‹1

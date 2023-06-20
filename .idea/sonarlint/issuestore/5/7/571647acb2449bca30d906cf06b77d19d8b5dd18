@@ -1,0 +1,9 @@
+
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ØÅ¶øÿÿÿÿ8Å¥¡Ñ‹1
+m
+java:S1128
+"KRemove this unused import 'com.cy.douyin.model.security.CustomUserDetails'.(ý³Îùÿÿÿÿÿ8Ù“¼ð‹1
+y
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë8Û“¼ð‹1
+Z
+java:S1128"8Remove this unused import 'javax.security.auth.Subject'.(â†×¦øÿÿÿÿ8Ý“¼ð‹1

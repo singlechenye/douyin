@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:ffmpeg:macosx-x86_64:5.0-1.5.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../MAVEN jar包o/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-macosx-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../MAVEN jar包o/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MAVEN jar包o/org/bytedeco/ffmpeg/5.0-1.5.7/ffmpeg-5.0-1.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

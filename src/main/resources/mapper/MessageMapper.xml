@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cy.douyin.mapper.MessageMapper">
+
+    <resultMap id="BaseResultMap" type="com.cy.douyin.model.domain.Message">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="to_user_id" column="to_user_id" jdbcType="INTEGER"/>
+            <result property="from_user_id" column="from_user_id" jdbcType="INTEGER"/>
+            <result property="content" column="content" jdbcType="VARCHAR"/>
+            <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+    </resultMap>
+</mapper>

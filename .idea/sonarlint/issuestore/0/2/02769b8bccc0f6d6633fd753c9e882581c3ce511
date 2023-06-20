@@ -1,0 +1,6 @@
+
+u	java:S116"TRename this field "author_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÎžÁþÿÿÿÿ8†“ÉÈ‹1
+y	java:S116"XRename this field "comment_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×íƒºûÿÿÿÿ8ÜÉ¾È‹1
+p	java:S116"TRename this field "cover_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‡ÎÀ8ÜÉ¾È‹1
+u	java:S116"YRename this field "favorite_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êì÷ˆ8ÜÉ¾È‹1
+t	java:S116!"SRename this field "play_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã”—Íùÿÿÿÿ8ÝÉ¾È‹1

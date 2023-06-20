@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco:javacpp:linux-armhf:1.5.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../MAVEN jar包o/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-linux-armhf.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../MAVEN jar包o/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MAVEN jar包o/org/bytedeco/javacpp/1.5.7/javacpp-1.5.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

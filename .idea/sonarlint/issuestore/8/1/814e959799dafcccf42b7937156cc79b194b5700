@@ -1,0 +1,8 @@
+
+l	java:S116!"WRename this field "follow_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ò¨µ
+n	java:S116&"YRename this field "follower_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‚–§
+n	java:S116-"TRename this field "is_follow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«èàäýÿÿÿÿ
+p	java:S1167"[Rename this field "background_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¯¬Õ
+o	java:S116A"ZRename this field "total_favorited" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ò¸Ë
+o	java:S116F"URename this field "work_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ã”‚ÿÿÿÿÿ
+s	java:S116K"YRename this field "favorite_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ñû…ûÿÿÿÿ

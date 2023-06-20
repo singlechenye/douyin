@@ -1,0 +1,13 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(êŸÑ¹ÿÿÿÿÿ8Ù©‹1
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÆ¶şÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÆ¶şÿÿÿÿ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÆ¶şÿÿÿÿ8“—Ö›‹1
+s	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â†âèùÿÿÿÿ8•İÕ›‹1
+M
+java:S2160"+Override the "equals" method in this class.(êŸÑ¹ÿÿÿÿÿ8Ëÿ£æ‹1
+S
+java:S1128"6Remove this unused import 'io.swagger.models.auth.In'.(å£Ùó8¨Ä‚Ï‹1
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8Òÿ£æ‹1

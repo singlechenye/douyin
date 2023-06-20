@@ -1,0 +1,9 @@
+
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸŞ”Ú8®›êÎ‹1
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸŞ”Ú8ÇëÎ‹1
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸŞ”Ú8ëëÎ‹1
+r	java:S116&"VRename this field "user_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¼ü©8’êéÎ‹1
+p	java:S116+"TRename this field "is_delete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ú¯8ËëÎ‹1
+p	java:S1161"TRename this field "user_role" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÒÚ¤8¡ëëÎ‹1
+S
+java:S1128	"6Remove this unused import 'io.swagger.models.auth.In'.(å£Ùó8µøşÎ‹1

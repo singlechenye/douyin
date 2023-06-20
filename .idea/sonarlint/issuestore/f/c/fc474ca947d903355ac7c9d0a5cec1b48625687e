@@ -1,0 +1,8 @@
+
+r	java:S116"XRename this field "comment_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×íƒºûÿÿÿÿ
+i	java:S116"TRename this field "cover_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‡ÎÀ
+n	java:S116"YRename this field "favorite_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êì÷ˆ
+p	java:S116#"VRename this field "is_favorite" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ãÄùÿÿÿÿ
+m	java:S116'"SRename this field "play_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã”—Íùÿÿÿÿ
+H
+java:S1128"+Remove this unused import 'lombok.Builder'.(§’Ğß8ÛúÜç‹1

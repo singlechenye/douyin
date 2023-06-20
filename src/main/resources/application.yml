@@ -1,0 +1,39 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 20MB
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1234
+    url: jdbc:mysql://localhost:3306/douyin?zeroDateTimeBehavior=CONVERT_TO_NULL
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  session:
+    timeout: 3600
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    connect-timeout: 60s
+    timeout: 120s
+    lettuce:
+      pool:
+        max-wait: 60s
+        max-active: 20
+        max-idle: 10
+        min-idle: 5
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+  global-config:
+    db-config:
+      logic-delete-field: isDeleted
+      logic-delete-value: 0
+      logic-not-delete-value: 1
+server:
+  port: 8080
+  servlet:
+    context-path: /douyin
+

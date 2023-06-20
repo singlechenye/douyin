@@ -1,0 +1,8 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ°
+8ë¢À›‹1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ°
+8Ô»Á›‹1
+r	java:S116	"VRename this field "status_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«­8ñ¢À›‹1
+v	java:S116
+"URename this field "status_msg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÁğÔüÿÿÿÿ8“›Á›‹1
